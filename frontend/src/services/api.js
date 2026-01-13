@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Use current hostname for API (works for localhost and mobile)
 const API_HOST = window.location.hostname;
-const API_URL = `http://${API_HOST}:5000/api`;
+const API_URL = `http://${API_HOST}:5001/api`;
 
 const api = axios.create({
     baseURL: API_URL,
