@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import StatusIndicator from '../components/StatusIndicator';
 import api from '../services/api';
 
-const SOCKET_URL = `http://${window.location.hostname}:5000`;
+const SOCKET_URL = `http://${window.location.hostname}:5001`;
 
 const UserDashboard = () => {
     const [status, setStatus] = useState('SAFE');

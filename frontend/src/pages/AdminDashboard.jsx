@@ -5,7 +5,7 @@ import StatusIndicator from '../components/StatusIndicator';
 import FireMap from '../components/FireMap';
 import api from '../services/api';
 
-const SOCKET_URL = `http://${window.location.hostname}:5000`;
+const SOCKET_URL = `http://${window.location.hostname}:5001`;
 
 const AdminDashboard = () => {
     const [status, setStatus] = useState('SAFE');
