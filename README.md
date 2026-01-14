@@ -289,3 +289,5 @@ MIT License - Free to use for educational purposes.
 ---
 
 **Developed for IoT Fire Detection Final Project** 🔥
+
+Laporan : https://umyac-my.sharepoint.com/:w:/r/personal/muhammad_mufid_ft23_mail_umy_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B61A526B0-C8D2-471B-A4F8-F87521E98365%7D&file=INFRARED_PAW_E_4.docx&action=default&mobileredirect=true&DefaultItemOpen=1
